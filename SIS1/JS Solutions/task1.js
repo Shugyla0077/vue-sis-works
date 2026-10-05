@@ -1,4 +1,4 @@
-Array.prototype.last = function() {
+Array.prototype.last = function() {   //.
     if (!this.length) {
         return -1;
     }
